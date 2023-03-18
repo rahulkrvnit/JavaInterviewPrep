@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <publisher>Little, Brown and Company</publisher>
+        <year>1951</year>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <publisher>J.B. Lippincott & Co.</publisher>
+        <year>1960</year>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <publisher>Charles Scribner's Sons</publisher>
+        <year>1925</year>
+    </book>
+</library>
